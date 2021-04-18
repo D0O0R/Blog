@@ -14,7 +14,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'D0O0R Blog',
-  domain: 'D0O0R.vercel.app',
+  domain: 'd0or.vercel.app',
   author: 'D0O0R',
 
   // open graph metadata (optional)
